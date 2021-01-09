@@ -1,5 +1,3 @@
-# import re
-
 # id_number = input("Please enter your ID number:")
 
 
